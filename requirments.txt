@@ -1,0 +1,6 @@
+In order to successfully launch this code you will need
+
+python 3.12.8
+pytorch 2.6.0
+matplotlib
+numpy
