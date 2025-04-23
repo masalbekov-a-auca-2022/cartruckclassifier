@@ -1,4 +1,8 @@
 ﻿# cartruckclassifier
+In order to successfully launch this code you will need
+
+python 3.12.8
+pytorch 2.6.0
 
 Hi, so if you want to run the program there are two ways
 the first is to run classifier.py and wait for some time until the model is trained, this can take some time,
